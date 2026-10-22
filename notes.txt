@@ -1,0 +1,5 @@
+Git is a distributed version control system.
+A commit is a snapshot of your project at a point in time.
+A branch lets you work on a feature without touching main.
+Merging combines the work from one branch into another.
+git status shows the state of your working directory.
